@@ -1,0 +1,17 @@
+numpy
+Pillow
+imageio-ffmpeg
+requests
+torch
+torchvision
+tensorboard
+IPython
+matplotlib
+pandas
+opencv-python
+tqdm
+jupyterlab
+notebook
+jupyter
+autopep8
+torch-tb-profiler
