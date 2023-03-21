@@ -15,3 +15,6 @@ notebook
 jupyter
 autopep8
 torch-tb-profiler
+lpips
+pytorch_msssim
+pytorch-ignite
